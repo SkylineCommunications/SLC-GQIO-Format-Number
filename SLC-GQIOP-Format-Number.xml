@@ -5,7 +5,7 @@
 	<Type>Automation</Type>
 	<Author>SKYLINE2\MFA</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder>GQI</Folder>
+	<Folder>GQI/Operators</Folder>
 
 	<Protocols>
 	</Protocols>
